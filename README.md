@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshsengar1431" alt="adarshsengar1431" /></a> </p>
 
-- 🔭 I’m currently working on **Online Blood Bank Management System**
+- 🔭 I’m currently working as **Freelancer**
 
 - 📫 How to reach me **Adarshsingh.as830@gmail.com**
 

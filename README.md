@@ -4,6 +4,14 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Adarsh S Sengar
+Full Stack Developer & UI/UX Designer with a strong passion for building innovative & user-friendly applications. Proficient in Java, HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, and MySQL. Certified in Google Finance Data Analyst Profession & Mulesoft Developer Level-1. 
+Skilled in Agile methodologies, Scrum development process, and database management. Strong academic background in Computer Science & Engineering from Sharnbasva University.
+Proficient in designing and developing scalable & efficient software solutions. Always looking to expand my skill set and collaborate with like-minded professionals to drive digital innovation. 
+With a keen eye for detail and a user-centric approach, I craft intuitive interfaces that delight users. I'm excited to leverage my skills to drive business growth and make a meaningful impact in the tech industry.
+As a creative problem-solver, I thrive in fast-paced environments and am adept at prioritizing tasks to meet deadlines.
+My expertise in UI/UX design enables me to create visually appealing and user-friendly interfaces that enhance the overall user experience. 
+I'm well-versed in design tools such as Figma, Adobe XD, and Sketch, and am proficient in developing responsive and mobile-friendly applications. 
+With a strong foundation in computer science, I'm able to write clean, efficient, and well-documented code that meets industry standards. I'm excited to join a team of innovators who share my passion for technology and are committed to making a positive impact.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshsengar1431" alt="adarshsengar1431" /></a> </p>
 

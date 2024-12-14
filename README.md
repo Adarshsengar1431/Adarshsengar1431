@@ -20,11 +20,9 @@ I'm excited to join a team of innovators who share my passion for technology and
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshsengar1431" alt="adarshsengar1431" /></a> </p>
 
-- 🔭 I’m currently working as **Freelancer**
-
 - 📫 How to reach me **Adarshsingh.as830@gmail.com**
   
-- Portfolio : https://adarshsengar1431.github.io/Adarsh-Portfolio/
+- 🚀 Portfolio : https://adarshsengar1431.github.io/Adarsh-Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

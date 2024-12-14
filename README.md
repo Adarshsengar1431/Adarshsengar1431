@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsengar1431&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsengar1431"/> </p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a Full Stack Developer & UI/UX Designer with a strong passion for building innovative & user-friendly applications.
-Proficient in Java, HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, and MySQL. 
+I am a Software Engineer and Full Stack Developer with a strong passion for building innovative & user-friendly applications.
+Proficient in Java, HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap,Tailwind CSS and MySQL. 
 Certified in Google Finance Data Analyst Profession & Mulesoft Developer Level-1. 
-Skilled in Agile methodologies, Scrum development process, and database management.
+Skilled in Agile methodologies, and database management.
 Strong academic background in Computer Science & Engineering from Sharnbasva University.
 Proficient in designing and developing scalable & efficient software solutions.
 Always looking to expand my skill set and collaborate with like-minded professionals to drive digital innovation. 

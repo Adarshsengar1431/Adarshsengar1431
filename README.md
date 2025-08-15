@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh S Sengar</h1>
 <h3 align="center">A passionate Software Engineer and Full Stack Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsengar1431&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsengar1431"/> </p>
+
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I am a Software Engineer and Full Stack Developer with a strong passion for building innovative & user-friendly applications.

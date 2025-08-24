@@ -18,8 +18,6 @@ I am proficient in developing responsive and mobile-friendly applications.
 With a strong foundation in computer science, I'm able to write clean, efficient, and well-documented code that meets industry standards.
 I'm excited to join a team of innovators who share my passion for technology and are committed to making a positive impact.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshsengar1431" alt="adarshsengar1431" /></a> </p>
-
 - 📫 How to reach me **Adarshsingh.as830@gmail.com**
   
 - 🚀 Portfolio : https://adarshsengar1431.github.io/Adarsh-Portfolio/
@@ -80,9 +78,3 @@ I'm excited to join a team of innovators who share my passion for technology and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsengar1431&show_icons=true&locale=en&layout=compact" alt="adarshsengar1431" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshsengar1431&show_icons=true&locale=en" alt="adarshsengar1431" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsengar1431&" alt="adarshsengar1431" /></p>

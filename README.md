@@ -3,7 +3,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I Am Software Engineer and Full Stack Developer with a strong passion for building innovative, scalable, and user-friendly applications. Proficient in Java, HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, Tailwind CSS, and MySQL. Certified in Google Finance Data Analyst Profession and MuleSoft Developer Level-1, with hands-on expertise in SDLC, Agile methodologies, and database management. Strong academic foundation in Computer Science & Engineering from Sharnbasva University. Skilled in designing intuitive UI/UX, developing responsive web/mobile applications, and delivering clean, efficient, and well-documented code. Adept at problem-solving in fast-paced environments, collaborating across teams, and driving digital innovation to achieve business growth.
+I Am Software Engineer and Full Stack Developer with proven experience in designing, developing, and deploying scalable, high-performance applications across web and mobile platforms. Proficient in Java, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, Tailwind CSS, MySQL, and PostgreSQL, with additional exposure to MongoDB and Firebase for cloud-based solutions.
+Certified in Google Finance Data Analyst Profession and MuleSoft Developer Level-1, bringing strong expertise in SDLC, Agile methodologies, CI/CD workflows, version control (Git, GitHub), and cloud platforms (AWS). Skilled in UI/UX design principles using Figma, creating intuitive, responsive, and user-centric interfaces that enhance usability and customer satisfaction.
+Academic foundation in Computer Science & Engineering from Sharnbasva University, backed by hands-on internships delivering production-ready features for enterprise-level applications. Recognized for strong problem-solving skills, critical thinking, and effective collaboration in team-based environments.
+A creative problem solver with a passion for continuous learning and digital innovation, capable of writing clean, efficient, and well-documented code. Excited to contribute technical expertise and innovative thinking to drive business growth, operational efficiency, and meaningful impact in the tech industry.
 
 - 📫 How to reach me **Adarshsingh.as830@gmail.com**
   

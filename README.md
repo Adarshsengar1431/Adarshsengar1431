@@ -3,20 +3,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a Software Engineer and Full Stack Developer with a strong passion for building innovative & user-friendly applications.
-Proficient in Java, HTML, CSS, JavaScript,Frame-work - ReactJS, NodeJS, Bootstrap,Tailwind CSS and MySQL. 
-Certified in Google Finance Data Analyst Profession & Mulesoft Developer Level-1. 
-Skilled in SDLC Life Cycle, Agile methodologies, and Database Management.
-Strong academic background in Computer Science & Engineering from Sharnbasva University.
-Proficient in designing and developing scalable & efficient software solutions.
-Always looking to expand my skill set and collaborate with like-minded professionals to drive digital innovation. 
-for detail and a user-centric approach, I craft intuitive interfaces that delight users.
-I'm excited to leverage my skills to drive business growth and make a meaningful impact in the tech industry.
-As a creative problem-solver, I thrive in fast-paced environments and am adept at prioritizing tasks to meet deadlines.
-My expertise in UI/UX design enables me to create visually appealing and user-friendly interfaces that enhance the overall user experience. 
-I am proficient in developing responsive and mobile-friendly applications. 
-With a strong foundation in computer science, I'm able to write clean, efficient, and well-documented code that meets industry standards.
-I'm excited to join a team of innovators who share my passion for technology and are committed to making a positive impact.
+I Am Software Engineer and Full Stack Developer with a strong passion for building innovative, scalable, and user-friendly applications. Proficient in Java, HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, Tailwind CSS, and MySQL. Certified in Google Finance Data Analyst Profession and MuleSoft Developer Level-1, with hands-on expertise in SDLC, Agile methodologies, and database management. Strong academic foundation in Computer Science & Engineering from Sharnbasva University. Skilled in designing intuitive UI/UX, developing responsive web/mobile applications, and delivering clean, efficient, and well-documented code. Adept at problem-solving in fast-paced environments, collaborating across teams, and driving digital innovation to achieve business growth.
 
 - 📫 How to reach me **Adarshsingh.as830@gmail.com**
   
